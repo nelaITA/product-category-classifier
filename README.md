@@ -16,7 +16,7 @@ requirements.txt
 
 ## Pokretanje
 ```bash
-git clone <URL_REPOZITORIJUMA>
+git clone https://github.com/nelaITA/product-category-classifier.git
 cd product-category-classifier
 pip install -r requirements.txt
 
